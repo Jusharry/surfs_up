@@ -24,3 +24,8 @@ as indicated in the following screenshots:
 
 ## Summary 
 Based on the data collected I believe that the loaction chosen would be ideal to setup the intended surfside business . The weather temperatures collected suggest that the weather during the critcial summer and winter months are consistent and would provide visitors with a great overall experience . 
+Two additional queries that I would run are related to rainfall as follows:
+
+* june_rain= [rainfall.prcp for rainfall in june_results]
+
+* dec_rain= [rainfall.prcp for rainfall in dec_results]
