@@ -8,3 +8,9 @@ decision making for the opening of a surfshop in Oahu.
 Based on the analayis I was able to determine the following :
 
 * The average temperature on Oahu doesnt vary greatly which is ideal for the surfside business 
+as indicated in the following screenshots:
+![Screenshot](june_temps.png)
+
+![Screenshot](dec_temps.png)
+
+* 
